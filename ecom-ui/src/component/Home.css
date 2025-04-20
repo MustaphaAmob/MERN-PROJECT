@@ -1,0 +1,11 @@
+@import url("https://use.typekit.net/ool2kjn.css");
+
+.hero {
+    font-family: "array-mono", serif;
+    letter-spacing: 2px;
+}
+
+.home-title {
+    font-size: 70px;
+    font-weight: bold;
+}

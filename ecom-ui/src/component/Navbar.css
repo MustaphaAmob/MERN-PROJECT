@@ -1,0 +1,32 @@
+@import url("https://use.typekit.net/ool2kjn.css");
+
+.myNavbar {
+    font-family: "array-mono", serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.nav-title {
+    letter-spacing: 3px;
+}
+
+.nav-item {
+    margin-right: 2rem;
+}
+
+input, button {
+    letter-spacing: 2px;
+}
+
+.btn-icon {
+    margin-right: .5rem;
+}
+
+.num {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.btn {
+    font-weight: bold;
+}

@@ -1,0 +1,35 @@
+@import url("https://use.typekit.net/ool2kjn.css");
+
+.numb {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container {
+    font-family: "array-mono", serif;
+    letter-spacing: 2px;
+}
+
+.card-title {
+    font-size: 35px;
+}
+
+.card-text {
+    font-size: 34px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-body .btn-outline-dark {
+    font-weight: bold;
+    font-size: 20px;
+    padding: .5rem 2.5rem;
+}
